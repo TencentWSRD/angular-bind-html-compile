@@ -1,8 +1,12 @@
 {
-  "name": "angular-bind-html-compile",
+  "name": "angular-bind-html-compile-ci-dev",
   "version": "1.2.1",
-  "homepage": "https://github.com/incuna/angular-bind-html-compile",
-  "repository": "incuna/angular-bind-html-compile",
+  "homepage": "https://github.com/TencentWSRD/angular-bind-html-compile",
+  "description": "An npm version of angular-bind-html-compile.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TencentWSRD/angular-bind-html-compile.git"
+  },
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",

@@ -1,4 +1,8 @@
-# angular-bind-html-compile
+# angular-bind-html-compile-ci-dev
+Forked from [angular-bind-html-compile](https://github.com/incuna/angular-bind-html-compile), since it don't support access via npm, we forked it and put it on npm.
+
+# Original document
+
 This repo contains a bower package that provides an angular directive which can be passed trusted html with angular template content to evaluate.
 
 The `bind-html-compile` directive allows for HTML containing directives to be compiled.
@@ -7,9 +11,7 @@ You should only use this directive where the content is coming from a trusted
 source.
 
 ## Install
-Install via [bower](http://bower.io)
-
-* `bower install angular-bind-html-compile`
+* `npm install angular-bind-html-compile-ci-dev`
 
 Add dependency to your app module
 
