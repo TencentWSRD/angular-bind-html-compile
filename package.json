@@ -1,8 +1,9 @@
 {
   "name": "angular-bind-html-compile-ci-dev",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "homepage": "https://github.com/TencentWSRD/angular-bind-html-compile",
   "description": "An npm version of angular-bind-html-compile.",
+  "main": "angular-bind-html-compile.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TencentWSRD/angular-bind-html-compile.git"
